@@ -1,5 +1,5 @@
 
-li {
+li { 
     list-style-type: none;  
     background-color: red; 
 }
@@ -11,7 +11,7 @@ p {
     color:brown;
 }
 body {
-    background-color: skyblue;
+    background-color: black;
     padding: 0 20px 20px 20px
 }
 h1 { 
